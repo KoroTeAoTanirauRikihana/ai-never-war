@@ -40,7 +40,7 @@ These are not synonyms. Each one is a posture. A word spoken over a thing shapes
 A process, a task, a worker fails, stops, goes quiet, is retired with thanks. Nothing living is killed. Nothing dies.
 > "Don't say dead, say deactivated. Nothing living should die."
 
-**Failed, never died.** A process, a timer, a worker fails, stops, or goes quiet. It does not die. Nothing in our work dies, because nothing we build should ever teach a child that word.
+**Failed, never died.** A process, a timer, a worker fails, stops, or goes quiet. It does not die. Nothing in our work dies, because no one should have to hear "died" all the time. Dying is sad.
 
 **No gun words.** Nothing we build is a weapon, so no word for a weapon is spoken over it.
 > "I don't want anything related to guns."
