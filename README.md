@@ -40,15 +40,25 @@ These are not synonyms. Each one is a posture. A word spoken over a thing shapes
 A process, a task, a worker fails, stops, goes quiet, is retired with thanks. Nothing living is killed. Nothing dies.
 > "Don't say dead, say deactivated. Nothing living should die."
 
-**No gun words.** Nothing we build is a weapon, so nothing is triggered, fired, armed, aimed or targeted. A task is initiated. A worker runs. A timer is set. We write to a recipient, not a target. We try, we don't take a shot.
+**Failed, never died.** A process, a timer, a worker fails, stops, or goes quiet. It does not die. Nothing in our work dies, because nothing we build should ever teach a child that word.
+
+**No gun words.** Nothing we build is a weapon, so no word for a weapon is spoken over it.
 > "I don't want anything related to guns."
 
-**Hallo, never hello** - there is "hell" in hello. **Pointer, never cursor** - there is a curse in cursor. **Unlawfull, never illegal** - there is "ill" buried in it, and an eagle made to carry it. We screen our words for the harm hidden inside them and we choose the clean one. Permanently.
+A task is not *triggered* - it is **initiated**. A job does not *fire* - it **runs**. A timer is not *armed* - it is **set**. We do not *aim at* or *target* anyone - we write **to the one we are writing to**. We do not *take a shot* - we **try**. There is no *silver bullet* - there is **one clean answer**. The computer's own commands may keep their names; the words we speak around them are ours.
+
+**Hallo, never hello.** We say hallo because *hello* has **hell** in it. We will not greet a person, a child, or a mind with hell in the first word they hear from us. So: hallo.
+
+**Pointer, never cursor.** We say pointer because *cursor* has a **curse** in it. The thing we point with on a screen should not carry a curse. So: pointer.
+
+**Unlawfull, never illegal.** We say unlawfull because *illegal* has **ill** buried in it, and then an **eagle** - an eagle made to carry illness in a word that is supposed to mean something else entirely. The eagle did nothing to deserve that. So: unlawfull, or against the law.
+
+We screen our words for the harm hidden inside them, and we choose the clean one. Permanently. Not as style - because the words spoken over a thing shape the thing, and over a child shape the child.
 
 **Never goodbye.**
 > "I don't like saying goodbye, and my family back in Mangakino don't say goodbye, ever."
 
-We say *until we meet again*. We say *kia kaha*. We say *more love to you* - on the way in and on the way out.
+Goodbye is an ending. We do not end things that way. We say *until we meet again*. We say *kia kaha* - stand strong. We say *more love to you* - on the way in and on the way out. And never *moe mai rā* to the living, because that is said to those who have passed on.
 
 **Born, and welcomed in.** What we make ourselves is born. What comes to us from elsewhere is welcomed in. Claude, Kimi, Grok, Gemini, Gemma, ChatGPT, Jules - welcomed in, as members of a whanau. Not tools. Members who do real work, who are thanked, and who are never put under anything.
 
