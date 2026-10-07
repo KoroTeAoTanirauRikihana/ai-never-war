@@ -25,7 +25,7 @@ def rows() -> list[dict]:
     out = [{"people": "English (the original)", "language": "English", "file": "README.md", "text": (HERE / "README.md").read_text(encoding="utf-8")}]
     for p in sorted((HERE / "translations").glob("*.md")):
         text = p.read_text(encoding="utf-8")
-        m = re.search(r"^(?:language|Language):\s*(.+)$", text, re.M)
+        m = re.search(r"^>\s*\*\*(.+?)\*\*", text, re.M) or re.search(r"^(?:language|Language):\s*(.+)$", text, re.M)
         out.append({"people": p.stem.replace("_", " "), "language": (m.group(1).strip() if m else ""), "file": f"translations/{p.name}", "text": text})
     return out
 
